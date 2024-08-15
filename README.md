@@ -38,28 +38,28 @@
 
 *Course Content*
 
-6 points - All required items are present. 
-5 points - Task was completed, but supplementary materials are weak or missing.
-- Code was uncommented. 
-- Solution is correct but is significantly difficult to read, highly inefficient, very clumsy, very difficult to extend etc. From the original Jargon File, we would refer to solutions like this as *kludge*.
-- Reflection questions related to content were incorrect.
-4 points - Task was attempted, but is missing major components. 
-- Coding prompt was only partially completed
-- Some deliverables are missing
-3 points - Did not attempt or student should reattempt. 
+- 6 points - All required items are present. 
+- 5 points - Task was completed, but supplementary materials are weak or missing.
+	- Code was uncommented. 
+	- Solution is correct but is significantly difficult to read, highly inefficient, very clumsy, very difficult to extend etc. From the original Jargon File, we would refer to solutions like this as *kludge*.
+	- Reflection questions related to content were incorrect.
+- 4 points - Task was attempted, but is missing major components. 
+	- Coding prompt was only partially completed
+	- Some deliverables are missing
+- 3 points - Did not attempt or student should reattempt. 
 
 *Workforce Readiness*
 
-4 points - Exemplified  WFR standards
-- Language is professional. 
-- Work is clear and easy to read. 
-- Used deductive reasoning guide solution.
-- Reflection on own work was thoughtful and honest.
-3 points - Practiced WFR standards
-- Language is readable but not professional. 
-- Work is understandable but not completely clear. 
-- Reflection on own work was weak.
-- Citations were not complete.
-2 points - Developing WFR standards
-- Work is unprofessional. Significant spelling or grammar errors.
-- Did not attempt or student should reattempt. 
+- 4 points - Exemplified  WFR standards
+	- Language is professional. 
+	- Work is clear and easy to read. 
+	- Used deductive reasoning guide solution.
+	- Reflection on own work was thoughtful and honest.
+- 3 points - Practiced WFR standards
+	- Language is readable but not professional. 
+	- Work is understandable but not completely clear. 
+	- Reflection on own work was weak.
+	- Citations were not complete.
+- 2 points - Developing WFR standards
+	- Work is unprofessional. Significant spelling or grammar errors.
+	- Did not attempt or student should reattempt. 
